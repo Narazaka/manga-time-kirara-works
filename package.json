@@ -1,0 +1,11 @@
+{
+  "name": "manga-time-kirara-works",
+  "version": "1.0.0",
+  "description": "Manga Time Kirara (Dokidoki Visual 4komagazine) works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "narazaka",
+  "license": "MIT"
+}
