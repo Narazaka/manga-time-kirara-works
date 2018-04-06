@@ -4,7 +4,7 @@
   "description": "Manga Time Kirara (Dokidoki Visual 4komagazine) works",
   "main": "index.js",
   "files": [
-    "index.js"
+    "*.js"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
